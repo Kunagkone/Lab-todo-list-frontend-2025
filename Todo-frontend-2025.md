@@ -1064,6 +1064,17 @@ npm run dev
 <img width="1898" height="1010" alt="image" src="https://github.com/user-attachments/assets/9fcf29c0-cb08-4136-a219-ed5aac703d91" />
 <img width="479" height="890" alt="image" src="https://github.com/user-attachments/assets/ffad1a49-ad32-492f-a9c7-96e77d743b0a" />
 
+Test Build
+--
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/11da86b5-7907-4472-b907-03807c5f1733" />
+<img width="958" height="661" alt="image" src="https://github.com/user-attachments/assets/0e90bc90-ee5b-4868-9deb-99ef6f053744" />
+
+ทดสอบ static files
+-
+<img width="1087" height="462" alt="image" src="https://github.com/user-attachments/assets/52865b5d-0612-4f9e-a7f5-bf23b4662465" />
+<img width="1919" height="1015" alt="image" src="https://github.com/user-attachments/assets/b6de6b46-4c4c-407b-af2e-7e9f1450a583" />
+
+
 ``` 
 
 ### ขั้นตอนที่ 8.4: Test Build
