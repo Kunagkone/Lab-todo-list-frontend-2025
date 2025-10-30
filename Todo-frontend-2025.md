@@ -1062,6 +1062,7 @@ npm run dev
 # บันทึกรูปผลการทดลองที่นี่
 โครงสร้างไฟล์เล็บการทดลอง
 <img width="1898" height="1010" alt="image" src="https://github.com/user-attachments/assets/9fcf29c0-cb08-4136-a219-ed5aac703d91" />
+<img width="479" height="890" alt="image" src="https://github.com/user-attachments/assets/ffad1a49-ad32-492f-a9c7-96e77d743b0a" />
 
 ``` 
 
